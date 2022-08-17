@@ -1,0 +1,78 @@
+.navigation_bar {
+	background-color:lightgray;
+	width: 25%;
+	float: left;
+	margin: 0;
+	list-style-type:none;
+	position: fixed;
+	height: 100%;
+}
+body {
+	 background-color: black;
+	 margin: 0;
+
+}
+.tekstii{
+	color: White;
+	width:  50%;
+	float: right;
+	margin-right: 10%;
+	margiin-top:  10%;
+}
+li a{
+	text-decoration: none;
+	color: black;
+}
+li a:hover{
+	background-color: black;
+	color: white;
+}
+.llogo{
+	width: 40%;
+	margin-top: 10%;
+}
+ul {
+	height: 100%;
+}
+.rreshti {
+	width: 10%;
+	margin: 0 10% 10% 20%;
+}
+.orat {
+	width: 70%;
+	float: right;
+	display: table;
+}
+img {
+	width: 250px;
+}
+.admiral {
+	float: Right;
+	width: 250px;
+	
+}
+.paragrafi{
+	margin: 20px;
+	color: white;
+	float: Right;
+	width: 60%;
+}
+.paragrafii{
+	 margin:  20px;
+	 color: White;
+	 float: Right;
+	 width:  60%;
+}
+li{
+	padding: 20px;
+
+}
+img: hover{
+	background-color:black;
+	color: White;
+}
+.paragrafiii{
+	 margin:  20px;
+	 color: White;
+	 float: Right;
+	 width:  60%;
